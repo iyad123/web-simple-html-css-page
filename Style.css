@@ -5,7 +5,20 @@ h1 {
 }
 
 p {
-  font-family: Arial;
+  font-family: cursive;
   font-size: 25px;
   color: black;
+}
+
+.butt {
+  color: red;
+}
+.but {color: darkblue; }
+body {
+  background-color: #000000
+}
+
+.bum {
+  font-size: 30px;
+  color: white;
 }
